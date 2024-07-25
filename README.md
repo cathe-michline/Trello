@@ -26,3 +26,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 # Trello
+Panel Creation and Management:
+Create Panels.
+
+Card Management:
+Add, Edit, and remove Cards within each board.
+Organize lists to represent different stages or categories of tasks.
+
+Drag-and-Drop Functionality:
+Easily reorder cards using drag-and-drop.
+Move cards between lists to update their status.
+
+#Screenshot
+![image](https://github.com/user-attachments/assets/896ee56f-1b39-45d1-8063-685592776b5f)
+![image](https://github.com/user-attachments/assets/fa616d08-2b55-418d-ad3f-63e3dfdc005d)
