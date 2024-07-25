@@ -37,7 +37,7 @@ Drag-and-Drop Functionality:
 Easily reorder cards using drag-and-drop.
 Move cards between lists to update their status.
 
-##Screenshot
+# Screenshot
 ![image](https://github.com/user-attachments/assets/896ee56f-1b39-45d1-8063-685592776b5f)
 
 ![image](https://github.com/user-attachments/assets/fa616d08-2b55-418d-ad3f-63e3dfdc005d)
