@@ -1,43 +1,38 @@
-# TrelloClone
+# 🗂️ Trello App Clone (Angular + NgRx)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+A Trello-style task management web application built as a **proof-of-concept (POC)** during my Software Engineer role at **Caterpillar (2024)**. The goal of this project was to demonstrate frontend architecture, state management, and interactive UI patterns using Angular and NgRx.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- Create, edit, and delete task cards  
+- Add and manage panels (columns)  
+- Drag-and-drop cards between panels  
+- Centralised state management using NgRx Store  
+- Modular Angular component architecture  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Frontend:** Angular, TypeScript, HTML, CSS  
+- **State Management:** NgRx Store  
+- **UI/UX:** Drag & Drop interactions  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🎯 Purpose
 
-## Running end-to-end tests
+This application was developed as a **POC to showcase frontend engineering skills** such as component design, state management, and user interactions in a production-style Angular application. It reflects real-world UI patterns used in task management and workflow tools.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 📌 Getting Started
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-# Trello
-Panel Creation and Management:
-Create Panels.
+```bash
+npm install
+ng serve
+```
 
-Card Management:
-Add, Edit, and remove Cards within each board.
-Organize lists to represent different stages or categories of tasks.
-
-Drag-and-Drop Functionality:
-Easily reorder cards using drag-and-drop.
-Move cards between lists to update their status.
-
-# Screenshot
-![image](https://github.com/user-attachments/assets/896ee56f-1b39-45d1-8063-685592776b5f)
-
-![image](https://github.com/user-attachments/assets/fa616d08-2b55-418d-ad3f-63e3dfdc005d)
+Open http://localhost:4200 in your browser to view the app.
